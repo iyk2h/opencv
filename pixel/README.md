@@ -1,4 +1,4 @@
-![img](../images/img.png)  
+![img5](../images/img5.png)  
 그림 같은 그래프처럼 입출력 함수를 구현해봤다.  
 그래프에서 100~192 까지는 0을 출력해야한다.  
 ![img](../images/img1.png)   
