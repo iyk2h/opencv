@@ -1,4 +1,4 @@
-![img2](../../images/img2.png)
+![img2](../images/img2.png)
 
 ![img3](../../images/img3.png)
 
