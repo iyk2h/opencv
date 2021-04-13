@@ -1,6 +1,6 @@
 ![img2](../images/img2.png)
 
-![img3](../../images/img3.png)
+![img3](../images/img3.png)
 
 드레그 함수에서 클릭을 조건으로 걸고 실행하였고 Beta  값을 올려 밝기를 올려주었다.
 
